@@ -1,9 +1,22 @@
 
 # CODSOFT project 2
----
+
 
 This is a code for making TO-DO-LIST using C++ Language
 ---
+
+# Specifications-
+ **Task Input:** Allow users to input tasks they want to add to the list.
+
+**Add Task:** Provide an option  to add tasks to the list.
+
+**View Tasks:** Display the list of tasks with their status (completed or
+pending).
+
+**Mark Task as Completed:** Allow users to mark tasks as completed.
+
+**Remove Task:** Provide an option to remove tasks from the list.
+
 ```C++
 #include<bits/stdc++.h>
 using namespace std;
@@ -142,7 +155,10 @@ int main() {
 
 
 
+
+
 ## Authors
 
  [@chitrangv27](https://github.com/chitrangv27)
+
 
