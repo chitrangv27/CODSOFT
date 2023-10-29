@@ -1,9 +1,21 @@
-
 # CODSOFT Project 1
 
 This is a code for making Tic-Tak Toe game using C++ language
-
 ---
+# Specifications-
+**Game Board:** Consists of 3x3 grid as the game board,
+Players:
+"X"
+and "O".
+
+**Display updation on board:** Shows the current state of the board with locations occupied and player turns.
+
+**Check for Win:** Consists a condition check if the current player has won or game is draw. Along with a switching bewtween turns of Player 1 and Player2.
+
+**Display Result:** If any of condition check is satisfied the results are displayed.
+
+**Play Again:** Ask the players if they want to play another game.
+
 ```C++
 #include<bits/stdc++.h>
 using namespace std;
@@ -160,8 +172,7 @@ int main() {
 ```
 ---
 
-
 ## Authors
 
-- [@chitrangv27](https://github.com/chitrangv27)
+ [@chitrangv27](https://github.com/chitrangv27)
 
